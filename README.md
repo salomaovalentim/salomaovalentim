@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👨‍💻 Salomão  Valentim
 
-<!--
-**salomaovalentim/salomaovalentim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Dados`**
 
-Here are some ideas to get you started:
+Me chamo Salomão Valentim, tenho 20 anos e sou natural da Bahia. Atualmente, estou cursando Engenharia de software. Sou apaixonado por tecnologia e dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Olá, eu sou um entusiasta de Análise de Dados! 📊</h1>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png" width="100" alt="SQL Logo">
+</p>
+
+<p align="center">
+  Apaixonado por dados, banco de dados e transformar números em decisões inteligentes.
+</p>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+- 🧮 SQL para consultas e manipulação de dados
+
+---
+
+### 📚 Atualmente aprendendo
+
+- 📗Excel
+- 📊Power BI para visualização de dados
+- 🛠️ Otimização de queries SQL
+
+---
+
+### 🚀 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/salomaovalentim/)
+
+   
