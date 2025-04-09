@@ -9,3 +9,10 @@ Olá! Me chamo Salomão Valentim, tenho 20 anos e sou apaixonado por transformar
 <img align="left" alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img align="left" alt="Excel" title="Excel" width="40px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
 
 <br/> <br/>
+
+### 📚 Atualmente aprendendo
+
+- 🐍 Python para análise e automação
+- 🧮 SQL para consultas e manipulação de dados
+- 📈 Power BI e Excel para visualizações
+- 📊 Pandas, NumPy, Matplotlib
