@@ -7,8 +7,9 @@ Me chamo Salomão Valentim, tenho 20 anos e sou natural da Bahia. Atualmente, es
 <h1 align="center">Olá, eu sou um entusiasta de Análise de Dados! 📊</h1>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png" width="100" alt="SQL Logo">
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="100" alt="SQL Logo Azul">
 </p>
+
 
 <p align="center">
   Apaixonado por dados, banco de dados e transformar números em decisões inteligentes.
