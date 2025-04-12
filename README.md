@@ -4,6 +4,7 @@
 
 
 <h2 align="left"> 👨🏻‍💻 Salomão Valentim
+  
 Analista de Dados | Estudante de Engenharia de Software
 
 Olá! Me chamo Salomão Valentim, tenho 20 anos e sou apaixonado por transformar dados em informações valiosas. Atualmente, estou cursando Engenharia de Software com foco na área de Análise de Dados. Aqui no GitHub compartilho projetos com foco em dados e dashboards.</h2>
@@ -25,8 +26,7 @@ Olá! Me chamo Salomão Valentim, tenho 20 anos e sou apaixonado por transformar
 ###
 
 <div align="left">
-  <a href="salomaovalentim31@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
   </a>
   <a href="www.linkedin.com/in/salomaovalentim" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
