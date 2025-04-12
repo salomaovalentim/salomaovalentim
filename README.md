@@ -14,10 +14,11 @@ Atualmente estou aprendendo e desenvolvendo habilidades com:
 - 🧮 **SQL** para consultas e manipulação de dados  
 - 📈 **Power BI** e **Excel** para visualizações interativas e relatórios  
 - 📊 Bibliotecas: **Pandas**, **NumPy**, **Matplotlib**
+
 ---
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=salomaovalentim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight-red&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salomaovalentim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight-red&locale=pt-br&hide_border=false&cache_bust=1" height="150" alt="stats graph" />
 </div>
 
 ---
