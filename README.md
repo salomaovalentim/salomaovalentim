@@ -6,13 +6,14 @@ Aqui no **GitHub**, compartilho projetos com **foco em dados e dashboards**.
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 📚 Tecnologias e Ferramentas (em aprendizado)
+
+Atualmente estou aprendendo e desenvolvendo habilidades com:
 
 - 🐍 **Python** para análise e automação  
 - 🧮 **SQL** para consultas e manipulação de dados  
-- 📈 **Power BI** e **Excel** para visualizações  
-- 📊 Bibliotecas: **Pandas**, **NumPy**, **Matplotlib**  
-
+- 📈 **Power BI** e **Excel** para visualizações interativas e relatórios  
+- 📊 Bibliotecas: **Pandas**, **NumPy**, **Matplotlib**
 ---
 
 <div align="center">
