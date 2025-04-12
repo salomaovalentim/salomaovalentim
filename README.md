@@ -15,9 +15,9 @@ Olá! Me chamo Salomão Valentim, tenho 20 anos e sou apaixonado por transformar
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-
   <img align="left" alt="Excel" title="Excel" width="40px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
 
 </div> 
 
