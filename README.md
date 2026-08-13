@@ -75,6 +75,102 @@ Atualmente venho aprofundando meus conhecimentos em **SQL, Python, Power BI e Mi
   <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
 </p>
 
+---
+
+## 🧠 O que venho desenvolvendo
+
+```text
+SQL
+├── Queries analíticas
+├── CTEs
+├── Subqueries
+├── Window Functions
+├── Joins
+└── Análise orientada a negócio
+
+Python
+├── Pandas
+├── Tratamento de dados
+├── Análise exploratória
+└── Automação
+
+Power BI
+├── Modelagem dimensional
+├── DAX
+├── Power Query
+├── KPIs
+└── Storytelling com dados
+
+Microsoft Fabric
+├── Lakehouse
+├── Data Warehouse
+├── Data Pipelines
+├── Notebooks
+└── Analytics Engineering
+
+Data Engineering
+├── ETL / ELT
+├── Transformação
+├── Orquestração
+├── Git
+└── Boas práticas de versionamento
+```
+
+---
+
+## 📂 Projetos em destaque
+
+### 🏠 Airbnb Data Analytics
+
+Análise exploratória de dados de hospedagens, preços e características dos imóveis.
+
+**Tecnologias:**
+
+`SQL` `Power BI` `DAX` `Power Query` `Data Modeling`
+
+**Principais análises:**
+
+- Análise de preços por região
+- Identificação dos tipos de hospedagem com maior demanda
+- Análise de faixa de preço
+- Pareto
+- Indicadores de receita
+- Construção de dashboard executivo
+
+---
+
+### 🛒 E-commerce Performance Analysis
+
+Análise de desempenho de e-commerce comparando períodos e indicadores de negócio.
+
+**Tecnologias:**
+
+`SQL` `Power BI` `DAX` `Data Modeling`
+
+**Principais análises:**
+
+- Evolução de vendas
+- Comparação entre períodos
+- KPIs
+- Análise de performance
+- Dashboard para tomada de decisão
+
+---
+
+### 👧 Gotas de Flor — ONG Analytics
+
+Projeto de análise e acompanhamento de dados para uma organização social.
+
+**Tecnologias:**
+
+`Power BI` `Power Query` `DAX` `Data Modeling`
+
+**Objetivo:**
+
+Transformar dados operacionais em informações visuais que facilitem o acompanhamento dos indicadores e apoiem a tomada de decisão.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -84,6 +180,14 @@ Atualmente venho aprofundando meus conhecimentos em **SQL, Python, Power BI e Mi
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=salomaovalentim&theme=transparent&hide_border=true" />
+</p>
+
+
+---
 
 ## 📈 Atividade no GitHub
 
@@ -91,6 +195,7 @@ Atualmente venho aprofundando meus conhecimentos em **SQL, Python, Power BI e Mi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=salomaovalentim&theme=github-compact&hide_border=true" />
 </p>
 
+---
 
 ## 🤝 Vamos conversar?
 
