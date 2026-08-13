@@ -84,21 +84,6 @@ Atualmente venho aprofundando meus conhecimentos em **SQL, Python, Power BI e Mi
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=salomaovalentim&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salomaovalentim&theme=flat&no-frame=true&no-bg=true&margin-w=5&row=1" />
-</p>
-
----
 
 ## 📈 Atividade no GitHub
 
